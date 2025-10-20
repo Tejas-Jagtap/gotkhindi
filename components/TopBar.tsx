@@ -25,7 +25,7 @@ const TopBar = () => {
   };
 
   const content = {
-    phone: language === "mr" ? "+९१-९९२१४१७००९" : "+91-9921417009",
+    phone: language === "mr" ? "+९१-९८२३५१८८८८" : "+91-9823518888",
     email: "gotkhindi123@gmail.com",
     langButton: language === "mr" ? "English" : "मराठी",
   };

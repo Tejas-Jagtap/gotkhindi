@@ -99,7 +99,7 @@ export default function ContactPage() {
                   </h3>
                   <p className="text-gray-700 text-sm sm:text-base">
                     {language === "en" ? "Sarpanch: " : "सरपंच : "}
-                    {language === "en" ? "7066141001 " : "७०६६१४१००१ "}
+                    {language === "en" ? "9823518888 " : "९८२३५१८८८८ "}
                   </p>
                 </div>
               </div>
